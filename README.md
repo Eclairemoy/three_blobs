@@ -1,5 +1,6 @@
 Fun Three.js blobs created with Thais
 
+![](spheres.gif)
 
 ------
 
