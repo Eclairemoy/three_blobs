@@ -1,4 +1,4 @@
-Fun Three.js blobs created with Thais
+Fun Three.js blobs created with [@thisisthais](https://github.com/thisisthais)
 
 ![](spheres.gif)
 
